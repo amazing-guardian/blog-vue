@@ -289,6 +289,11 @@ Vue.component('blog', {
 					'judul': 'Apa Kabar Hapalan Quran',
 					'link': 'apa%20kabar%20hapalan%20quran.html',
 					'kategori': 'sehari-hari'
+				},
+				{
+					'judul': 'Punya Pute',
+					'link': 'punya%20pute.html',
+					'kategori': 'kkn'
 				}
 			]
 		}
